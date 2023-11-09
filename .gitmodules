@@ -1,0 +1,3 @@
+[submodule "book-club"]
+	path = book-club
+	url = https://github.com/git-megan/book-club
